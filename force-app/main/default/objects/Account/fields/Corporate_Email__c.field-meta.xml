@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Corporate_Email__c</fullName>
     <externalId>false</externalId>
-    <inlineHelpText>Enter the corporate email 1</inlineHelpText>
+    <inlineHelpText>Enter the corporate email 1 into the account</inlineHelpText>
     <label>Corporate Email</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
