@@ -45,23 +45,23 @@ $RECYCLE.BIN/
 **/venv/
 
 # User Creds
-sf org create scratch --definition-file config/project-scratch-def.json --alias MyScratchOrg --no-namespace --duration-days 30 --set-default --target-dev-hub devHub2
+#sf org create scratch --definition-file config/project-scratch-def.json --alias MyScratchOrg --no-namespace --duration-days 30 --set-default --target-dev-hub devHub2
 
-Request Id: 2SRdL000000OiPhWAK (​https://xyzpvtltd77-dev-ed.develop.my.salesforce.com/2SRdL000000OiPhWAK​)
-OrgId: 00DC10000020MfJ
-Username: test-docftetgssm7@example.com
-Alias: MyScratchOrg
+#Request Id: 2SRdL000000OiPhWAK (​https://xyzpvtltd77-dev-ed.develop.my.salesforce.com/2SRdL000000OiPhWAK​)
+#OrgId: 00DC10000020MfJ
+#Username: test-docftetgssm7@example.com
+#Alias: MyScratchOrg
 Elapsed Time: 16.94s
-password: ssyb(dcUgu8pk
+#password: ssyb(dcUgu8pk
 
-sf org generate password --target-org MyScratchOrg
-sf org generate password --target-org target2
+#sf org generate password --target-org MyScratchOrg
+#sf org generate password --target-org target2
 
-sf org create scratch --definition-file config/project-scratch-def.json --alias target2 --no-namespace --duration-days 30 --set-default --target-dev-hub devHub2
+#sf org create scratch --definition-file config/project-scratch-def.json --alias target2 --no-namespace --duration-days 30 --set-default --target-dev-hub devHub2
 
-Request Id: 2SRdL000000OiRJWA0 (​https://xyzpvtltd77-dev-ed.develop.my.salesforce.com/2SRdL000000OiRJWA0​)
-OrgId: 00D9H000001epjB
-Username: test-wssvapmo6fs5@example.com
-Alias: target2
-Elapsed Time: 24.17s
-password: wvvpusvtG4a[j
+#Request Id: 2SRdL000000OiRJWA0 (​https://xyzpvtltd77-dev-ed.develop.my.salesforce.com/2SRdL000000OiRJWA0​)
+#OrgId: 00D9H000001epjB
+#Username: test-wssvapmo6fs5@example.com
+#Alias: target2
+#Elapsed Time: 24.17s
+#password: wvvpusvtG4a[j
